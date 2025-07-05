@@ -1,9 +1,8 @@
 # Spring Boot Microservices
 
-![alt text]({C44DD95B-0824-452E-A84C-D1B5E6D3F77D}.png)
+![image](https://github.com/user-attachments/assets/12dab956-84d1-4e2a-b9c5-e14f90e9a994)
 
-
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/0aa42252-97ae-4418-b2f9-7200e3e46022)
 
 ![Java](https://img.shields.io/badge/Java-17-blue)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-3.1-green)
